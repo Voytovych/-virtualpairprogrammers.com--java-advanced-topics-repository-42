@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="LearningLog4J/src"/>
+	<classpathentry kind="lib" path="LearningLog4J/lib/log4j-api-2.1.jar"/>
+	<classpathentry kind="lib" path="LearningLog4J/lib/log4j-core-2.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
